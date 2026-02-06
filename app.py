@@ -168,7 +168,7 @@ const App: React.FC = () => {
                   </div>
                 </div>
                 <p className="mt-2 text-xs text-slate-400">
-                  ※AIは公式ヘルプページを検索し回答しますが、最終的な判断は公式ドキュメントを直接ご確認ください。
+                  st.caption("※AIは公式ヘルプページを検索し回答しますが、最終的な判断は公式ドキュメントを直接ご確認ください。")
                 </p>
               </div>
             </div>
